@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Boone County IN Consolidated Calendar//github//
+X-WR-CALNAME:Boone County, IN -- Consolidated Events
+X-WR-TIMEZONE:America/Indiana/Indianapolis
+BEGIN:VEVENT
+UID:placeholder@boone-consolidated-calendar
+DTSTAMP:20260710T000000Z
+DTSTART:20260710T000000Z
+SUMMARY:Placeholder -- run the GitHub Action (or wait for the next scheduled run) to populate this calendar
+DESCRIPTION:This file is replaced automatically once .github/workflows/update-calendar.yml runs.
+END:VEVENT
+END:VCALENDAR
